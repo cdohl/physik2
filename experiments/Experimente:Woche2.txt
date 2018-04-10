@@ -1,0 +1,15 @@
+Experimente: Dipol
+Influenz:
+  - Im Plattenkondensator (zwei platten)
+  - Kelvin Generator
+  - Wimshurst/Influenzmaschinen (ohne und mit Leiden)
+  - Platte verbunden mit VdG und in Naehe von Elektroskop
+  - Elektrophor, Ladung scheffeln
+  - Faraday Becher (LAdung mit VdG aufbringen) Ladung innnen =0, Ladung nur aussen
+Dipol experiment mit Sieb (Farady-Kaefig)
+Platten vs Kugel Efeld mit Holunderbaellchen
+Plattenkondensator Aenderung des Abstandes
+Milikan Versuch
+Reihen und Parallelschaltung
+
+
